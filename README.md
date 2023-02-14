@@ -15,6 +15,6 @@
 :dizzy_face:
 
 1. Tiene dos temporadas
- - Primer temporada
-  - Segunda temporada
-   - tercera temporada esta en produccion
+ * Primer temporada
+  * Segunda temporada
+   * tercera temporada esta en produccion
