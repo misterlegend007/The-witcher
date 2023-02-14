@@ -13,3 +13,8 @@
 ![This is a image](https://i.blogs.es/17636d/the-witcher/1366_2000.webp)
 :alien:
 :dizzy_face:
+
+* Tiene dos temporadas
+ - Primer temporada
+  - Segunda temporada
+   - tercera temporada esta en produccion 
