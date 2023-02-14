@@ -18,3 +18,6 @@
  * Primer temporada
   * Segunda temporada
    * tercera temporada esta en produccion
+
+# Donde lo miro es en:
+[Contribution guidelines for this project](https://www.youtube.com/watch?v=Gj2puvYkMOI)
