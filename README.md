@@ -14,7 +14,7 @@
 :alien:
 :dizzy_face:
 
-* Tiene dos temporadas
+1. Tiene dos temporadas
  - Primer temporada
   - Segunda temporada
-   - tercera temporada esta en produccion 
+   - tercera temporada esta en produccion
